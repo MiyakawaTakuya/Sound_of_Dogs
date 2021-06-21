@@ -11,6 +11,7 @@
 		38174ABD2680C122008745EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38174ABC2680C122008745EC /* ContentView.swift */; };
 		38174ABF2680C123008745EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38174ABE2680C123008745EC /* Assets.xcassets */; };
 		38174AC22680C123008745EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38174AC12680C123008745EC /* Preview Assets.xcassets */; };
+		38174ACA2680CF9A008745EC /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38174AC92680CF9A008745EC /* SoundPlayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		38174ABE2680C123008745EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38174AC12680C123008745EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		38174AC32680C123008745EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38174AC92680CF9A008745EC /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				38174ABA2680C122008745EC /* Sound_of_DogsApp.swift */,
 				38174ABC2680C122008745EC /* ContentView.swift */,
+				38174AC92680CF9A008745EC /* SoundPlayer.swift */,
 				38174ABE2680C123008745EC /* Assets.xcassets */,
 				38174AC32680C123008745EC /* Info.plist */,
 				38174AC02680C123008745EC /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				38174ABD2680C122008745EC /* ContentView.swift in Sources */,
+				38174ACA2680CF9A008745EC /* SoundPlayer.swift in Sources */,
 				38174ABB2680C122008745EC /* Sound_of_DogsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
